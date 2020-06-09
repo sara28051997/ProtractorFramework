@@ -1,0 +1,8 @@
+allure-results/
+Reports/
+target/
+hello.js
+index.html
+example_spec.js
+conf1.js
+registration.js
