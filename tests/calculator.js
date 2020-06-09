@@ -11,6 +11,6 @@ describe("demo calculator tests", function () {
 
     homepage.verify("6");
 
-    browser.sleep(2000);
+    browser.sleep(3000);
   });
 });
